@@ -8,4 +8,4 @@ cp CNAME build
 ./node_modules/resumed/bin/resumed.js render resume.json -o build/index.html --theme $theme
 
 # Replace image
-sed -i build/index.html 's/?s=100/?s=512/g'
+sed -i 's/?s=100/?s=512/g' build/index.html
