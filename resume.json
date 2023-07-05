@@ -47,22 +47,56 @@
         "institution": "SJCE, Mysuru"
       }
     ],
-    "references": [
+    "patents" : [
       {
-        "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
-        "name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
+        "name": "Device and method for analysis and detection of malocclusion",
+        "summary": "Non Provisional Patent application no. 201941035079 before the Indian Patent Office", 
+        "endDate": "2019-05",
+        "startDate": "2018-06"
+      }
+    ],
+    "volunteering" : [
+      {
+        "name": "IEEE-SJCE, EDS, Secretary",
+        "summary": "Teaching and guiding juniors through the various workshops and activities like robotics, soldering, etching, project manias", 
+        "endDate": "2018-05",
+        "startDate": "2017-06"
       },
       {
-        "reference": "I've had the great pleasure of working with Thomas for the past three years at Earbits, and on a few side projects. Two years ago our CTO left on a moment's notice, Thomas saved our company by quickly stepping up to fill this role. He has been with our company through thick and thin and made serious personal sacrifices in order to help the company during tough times. He is a phenomenal hacker and a true team player. Highly recommended!",
-        "name": "Yotam Rosenbaum, SVP of Operations, Earbits, Inc."
+        "name": "IEEE-SJCE, EDS, Chairperson",
+        "summary": "Responsible for conducting various workshops like robotics, soldering, etching, project manias to guide juniors", 
+        "endDate": "2019-05",
+        "startDate": "2018-06"
       },
       {
-        "reference": "Thomas is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with Thomas has been fantastic learning experience. Thomas is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with Thomas, I take it. He is the definition of an A player.",
-        "name": "Ryan Kirkman, Senior Software Engineer at Nerdwallet"
+        "name": "IEEE-SJCE, Member and Volunteer",
+        "summary": "I was a volunteer as well as a member and was involved in many fests, social activities, workshops of this student club.", 
+        "endDate": "2019-05",
+        "startDate": "2015-08"
+      }
+    ],
+    "projects" : [
+      {
+        "name": "SoC : Planning and Prototyping",
+        "summary": "I implemented a PoC for performance optimization using timing driven placements on SoC PnP. This involved generating a Liberty file using TCL by quering internal data and later running timing driven placements on OpenRoad.", 
+        "endDate": "2023-05",
+        "startDate": "2023-01"
       },
       {
-        "reference": "On Thomas Davis... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do.",
-        "name": "Greg Davis"
+        "name": "Clock and data recovery circuits",
+        "summary": "Designed linear and bang-bang clock and data recovery circuits with forwarded as well as not forwarded clock for data running at around 5Gbps in LtSpice as part of a course, VLSI and Broadband Communication Circuits.", 
+        "endDate": "2022-04",
+        "startDate": "2022-01"
+      },
+      {
+        "name": "8*8 Signed Multiplier",
+        "summary": "Designed both schematic and layout of an 8*8 signed multiplier using CMOS full adders in Electric, did critical path analysis and increased the clock speed through pipelining as part of a course, Digital IC Design.", 
+        "endDate": "2021-08",
+        "startDate": "2021-07"
+      },
+      {
+        "name": "Hobby projects",
+        "summary": "Home automations, wireless communication(WIFI, BT, RF, DTMF), multiple types of robots, drowsiness detection using brainwaves."
       }
     ],
     "skills": [
@@ -71,7 +105,8 @@
           "C",
           "Embedded C",
           "Verilog",
-          "Python"
+          "Python",
+          "TCL"
         ],
         "level": "Senior",
         "name": "Programming Skills"
@@ -87,37 +122,42 @@
         "name": "Hardware Skills"
       }
     ],
-    "awards": [
-      {
-        "title": "Defender of the Internet",
-        "awarder": "Fight For The Future"
-      }
-    ],
     "work": [
       {
-        "summary": "Tokenized is a Bitcoin wallet for issuing, managing and trading digital tokens. I built out the front end which was packaged as an electron app. It was a difficult frontend to build because we store the users keys locally and used them to sign transactions and contracts.",
-        "website": "https://tokenized.com/",
-        "name": "Tokenized",
-        "location": "Melbourne",
-        "position": "Senior Javascript Developer",
-        "startDate": "2020-05-05",
-        "highlights": ["React", "Redux", "SCSS", "Product"]
+        "summary": "I started leading the Wi-Fi regulatory and the hardware vertical of the Customer Applications Engineering Team.",
+        "website": "https://www.infineon.com/",
+        "name": "Infineon technologies",
+        "location": "Bengaluru",
+        "position": "Senior Applications Engineer",
+        "startDate": "2022-04",
+        "highlights": [
+          "I am responsible for helping customers get their wifi radios ready before they go into regulatory testing.", 
+          "I also do schematic reviews and help customers with a few hardware queries.", 
+          "I also look at WLAN firmware issues."
+        ]
       },
       {
-        "summary": "Blockbid is an Australian crypto currency exchange. I started off on the frontend but eventually became lead tech and worked on every moving piece of the exchange. I really enjoyed working with liquidity providers and connecting their platforms to help us achieve liquid markets.",
-        "website": "https://platform.blockbid.io",
-        "name": "Blockbid",
-        "location": "Melbourne",
-        "position": "Senior Javascript Developer",
-        "startDate": "2018-03-01",
-        "endDate": "2020-01-01",
+        "summary": "I started supporting Cypress' Wi-Fi customers in my first job out of college. This gave me exposure to how customers work, introduced me to product design cycles.",
+        "website": "https://www.infineon.com/",
+        "name": "Cypress Semiconductor",
+        "location": "Bengaluru",
+        "position": "Applications Engineer ",
+        "startDate": "2019-06",
+        "endDate": "2022-03",
         "highlights": [
-          "React, Apollo, Styled Components",
-          "Node.js / Rails",
-          "Docker / Heroku / GCP",
-          "Used Figma for design and UX work",
-          "Optimizing markets with tens of millions of rows using SQL."
+          "I extensively worked on the company's embeddedInfineon's Wi-Fi portfolio and I worked on WICED and ModusToolBox when I was exposed to a few technologies like ThreadX, FreeRTOS, LwIP, NetX, Makefiles.",
+          "I also worked on developing projects showcasing Infineon's products and developed a few Code Examples.",
+          "I also worked on automating  regulatory flow which reduced the turn around time from a few weeks to a few hours."
         ]
+      },
+      {
+        "summary": "I learnt some basics about Bluetooth and I learnt a few Bluetooth protocols in this 6 month internship program.",
+        "website": "https://www.infineon.com/",
+        "name": "Cypress Semiconductor",
+        "location": "Bengaluru",
+        "position": "Co-Op Bachelors",
+        "startDate": "2019-01",
+        "endDate": "2019-05"
       }
     ],
     "interests": [
