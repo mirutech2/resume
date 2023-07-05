@@ -83,25 +83,31 @@
     "projects" : [
       {
         "name": "SoC : Planning and Prototyping",
-        "summary": "I implemented a PoC for performance optimization using timing driven placements on SoC PnP. This involved generating a Liberty file using TCL by quering internal data and later running timing driven placements on OpenRoad.", 
         "endDate": "2023-05",
-        "startDate": "2023-01"
+        "startDate": "2023-01",
+        "summary": "I implemented a PoC for performance optimization using timing driven placements on SoC PnP. This involved generating a Liberty file using TCL by quering internal data and later running timing driven placements on OpenRoad.",
+        "highlights":[]
       },
       {
         "name": "Clock and data recovery circuits",
-        "summary": "Designed linear and bang-bang clock and data recovery circuits with forwarded as well as not forwarded clock for data running at around 5Gbps in LtSpice as part of a course, VLSI and Broadband Communication Circuits.", 
         "endDate": "2022-04",
-        "startDate": "2022-01"
+        "startDate": "2022-01",
+        "summary": "Designed linear and bang-bang clock and data recovery circuits with forwarded as well as not forwarded clock for data running at around 5Gbps in LtSpice as part of a course, VLSI and Broadband Communication Circuits.",
+        "highlights":[]
       },
       {
         "name": "8*8 Signed Multiplier",
-        "summary": "Designed both schematic and layout of an 8*8 signed multiplier using CMOS full adders in Electric, did critical path analysis and increased the clock speed through pipelining as part of a course, Digital IC Design.", 
         "endDate": "2021-08",
-        "startDate": "2021-07"
+        "startDate": "2021-07",
+        "summary": "Designed both schematic and layout of an 8*8 signed multiplier using CMOS full adders in Electric, did critical path analysis and increased the clock speed through pipelining as part of a course, Digital IC Design.",
+        "highlights":[]
       },
       {
         "name": "Hobby projects",
-        "summary": "Home automations, wireless communication(WIFI, BT, RF, DTMF), multiple types of robots, drowsiness detection using brainwaves."
+        "endDate": "2019-05",
+        "startDate": "2015-08",
+        "summary": "Home automations, wireless communication(WIFI, BT, RF, DTMF), multiple types of robots, drowsiness detection using brainwaves.",
+        "highlights":[]
       }
     ],
     "skills": [
