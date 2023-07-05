@@ -55,7 +55,7 @@
         "startDate": "2018-06"
       }
     ],
-    "volunteering" : [
+    "volunteer" : [
       {
         "name": "IEEE-SJCE, EDS, Secretary",
         "summary": "Teaching and guiding juniors through the various workshops and activities like robotics, soldering, etching, project manias", 
@@ -75,7 +75,7 @@
         "startDate": "2015-08"
       }
     ],
-    "projects" : [
+    "publications" : [
       {
         "name": "SoC : Planning and Prototyping",
         "summary": "I implemented a PoC for performance optimization using timing driven placements on SoC PnP. This involved generating a Liberty file using TCL by quering internal data and later running timing driven placements on OpenRoad.", 
