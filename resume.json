@@ -153,27 +153,21 @@
     ],
     "work": [
       {
-        "summary": "I have worked on 3 major aspects during my role here along with writing blogs, and knowledge articles, and providing training to end users. I have also mentored interns and new hires to the team.",
+        "summary": "I have worked on 3 major aspects i.e., regulatory, hardware, and software during my role here along with writing blogs, and knowledge articles, and providing training to end users. I have also mentored interns and new hires to the team.",
         "url": "https://www.infineon.com/",
         "name": "Infineon technologies",
         "location": "Bengaluru",
         "position": "Senior Applications Engineer",
         "startDate": "2022-04",
         "highlights": [
-          "Regulatory",
-          [
             "Built CLM BLOBs for every Wi-Fi radio of Infineon.",
             "Working knowledge of 802.11a,b,g,n,ac,ax, and Wi-Fi 6E.",
             "I have also worked on 802.11d, auto country implementation.",
             "Defined the templates to be used for CLM BLOBs in Wi-Fi 6 and 6E.",
             "Worked with various stakeholders in identifying bugs in CLM BLOBs and fixing them for Wi-Fi 6 and 6E.",
-          ],
-          "Hardware",
-          [
             "Performed schematic and PCB reviews.",
             "Worked on NVRAM to vary and achieve various power requirements.",
             "Have basic knowledge of TSSI calibration."
-          ]
         ]
       },
       {
@@ -185,15 +179,12 @@
         "startDate": "2019-06",
         "endDate": "2022-03",
         "highlights": [
-          "Software",
-          [
             "Automated Infineon's WIFI regulatory flow and reduced the time needed for CLM BLOB generation from a few weeks to a few mins.",
             "Working experience on WICED, Modus ToolBox, Makefiles, Linker scripts.",
             "Experienced in bringing up Linux platforms and building Wi-Fi FMAC drivers on top of that. Proprietary WL tool generation is also a part of this.",
             "Have an understanding of IEEE power save, roaming and fast roaming (802.11k,r).",
             "Experience in working with IOCTL's and IOVAR's and their interaction with the WLAN firmware.",
             "Developed code examples and demo solutions showcasing the functionality of Wi-Fi products."
-          ]
         ]
       },
       {
