@@ -169,7 +169,9 @@
         "position": "Senior Analog Design Engineer",
         "startDate": "2024-02",
         "highlights": [
-            "Currently working on oscillators",
+            "Currently working on IMON, OCP, and SCP circuits.",
+            "Designed a 5MHz oscillator with +/-10% variation across PVTMC(5 Sigma) with a sleep current of less than 100nA and an operating current of less than 250uA.",
+            "Designed a comparator with a relative offset(variation from 25C to 150C) of +/-500uV with an absolute offset of +/-1.5mV across PVTMC(5 Sigma).",
             "Designed a 2.3v bandgap circuit with a 3% variation across PVT.",
             "Exposure to PID controllers and their tuning."
         ]
